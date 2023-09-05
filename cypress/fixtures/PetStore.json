@@ -1,0 +1,7 @@
+{
+  "userName": ["fish","cat"],
+  "passWord": ["test123","test123"],
+  "petNames":["FISH","DOGS","REPTILES","CATS","BIRDS"],
+  "userLikedPets":["Tiger Shark","Dalmation","Rattlesnake","Persian","Amazon Parrot"]
+
+}
